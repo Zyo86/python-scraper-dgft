@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Excel extensions
+*.xls
+*.xlsx
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Compiled Python files
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment folders
+venv/
+env/
+
+# Compiled libraries
+lib/
+lib64/
